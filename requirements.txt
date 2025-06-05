@@ -1,0 +1,4 @@
+locust==2.24.1
+pandas
+openpyxl
+streamlit

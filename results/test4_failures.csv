@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+POST,/transliterate,CatchResponseError('Failed with status 429'),1976
